@@ -1,4 +1,14 @@
 @charset "UTF-8";
+
+@font-face{
+  font-family:"Lato";
+  src:url('../FONTS/Lato-Regular.ttf') format('truetype');
+}
+@font-face{
+  font-family:"Ondo";
+  src:url('../FONTS/Ondo-Regular.ttf') format('truetype');
+}
+
 * {
   margin: 0;
   padding: 0; 
