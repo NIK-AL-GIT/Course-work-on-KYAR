@@ -5,7 +5,7 @@
 body {
 	box-sizing: border-box;
 	background-color: #2D1E6B;
-	color: #FFF;
+	color: #FFF; 
 	font-family: Ondo;
 }
 .container {
@@ -94,6 +94,7 @@ span {
 	font-weight: bolder;
 	margin-right: 15px;
 	transform: skew(-15deg);
+	cursor: pointer;
 }
 .first_buttons_1, .second_buttons_1, .fourth_buttons_1, .items_button {
 	background-image: url(..//IMAGES/bg.png);
